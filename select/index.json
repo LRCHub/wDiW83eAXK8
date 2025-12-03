@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "怪獣",
+  "base_artist": "PEOPLE 1",
+  "createdAt": "2025-12-03T16:06:58.716531Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人／怪獣",
+      "artist": "Keigo Hoashi, Keiichi Okabe",
+      "has_synced": false,
+      "path": "select/01_全テヲ破壊スル黒キ巨人_怪獣_Keigo_Hoashi,_Keiichi_Okabe.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "怪獣",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/02_怪獣_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人／怪獣",
+      "artist": "Hoashi, Keigo, Okabe, Keiichi",
+      "has_synced": true,
+      "path": "select/03_全テヲ破壊スル黒キ巨人_怪獣_Hoashi,_Keigo,_Okabe,_Keiichi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人 / 怪獣",
+      "artist": "Hoashi, Keigo・Okabe, Keiichi",
+      "has_synced": false,
+      "path": "select/04_全テヲ破壊スル黒キ巨人___怪獣_Hoashi,_Keigo・Okabe,_Keiichi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人／怪獣",
+      "artist": "Keigo Hoashi",
+      "has_synced": true,
+      "path": "select/05_全テヲ破壊スル黒キ巨人_怪獣_Keigo_Hoashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人⧸怪獣",
+      "artist": "Keigo Hoashi",
+      "has_synced": true,
+      "path": "select/06_全テヲ破壊スル黒キ巨人⧸怪獣_Keigo_Hoashi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人/怪獣 - Dark Colossus (Kaiju)",
+      "artist": "SQUARE ENIX MUSIC & Keigo Hoashi",
+      "has_synced": false,
+      "path": "select/07_全テヲ破壊スル黒キ巨人_怪獣_-_Dark_Colossus_(Kaiju)_SQUARE_ENIX_MUSIC_&_Keigo_Hoashi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人/怪獣",
+      "artist": "NieR",
+      "has_synced": false,
+      "path": "select/08_全テヲ破壊スル黒キ巨人_怪獣_NieR.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人／怪獣",
+      "artist": "Keiichi Okabe, Keigo Hoashi",
+      "has_synced": true,
+      "path": "select/09_全テヲ破壊スル黒キ巨人_怪獣_Keiichi_Okabe,_Keigo_Hoashi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人/怪獣 - Dark Colossus (Kaiju)",
+      "artist": "Keigo Hoashi & Keiichi Okabe",
+      "has_synced": false,
+      "path": "select/10_全テヲ破壊スル黒キ巨人_怪獣_-_Dark_Colossus_(Kaiju)_Keigo_Hoashi_&_Keiichi_Okabe.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "怪獣 - Dark Colossus (Kaiju)",
+      "artist": "Keigo Hoashi & Keiichi Okabe",
+      "has_synced": false,
+      "path": "select/11_怪獣_-_Dark_Colossus_(Kaiju)_Keigo_Hoashi_&_Keiichi_Okabe.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人/怪獣 - Dark Colossus (Kaiju)",
+      "artist": "Keigo Hoashi",
+      "has_synced": false,
+      "path": "select/12_全テヲ破壊スル黒キ巨人_怪獣_-_Dark_Colossus_(Kaiju)_Keigo_Hoashi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "怪獣 - Dark Colossus",
+      "artist": "Keigo Hoashi & Keiichi Okabe",
+      "has_synced": false,
+      "path": "select/13_怪獣_-_Dark_Colossus_Keigo_Hoashi_&_Keiichi_Okabe.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "怪獣 - Dark Colossus (Kaiju)",
+      "artist": "Keigo Hoashi",
+      "has_synced": false,
+      "path": "select/14_怪獣_-_Dark_Colossus_(Kaiju)_Keigo_Hoashi.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人/怪獣 - Dark Colossus",
+      "artist": "Keigo Hoashi",
+      "has_synced": false,
+      "path": "select/15_全テヲ破壊スル黒キ巨人_怪獣_-_Dark_Colossus_Keigo_Hoashi.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人/怪獣 - Dark Colossus (Kaiju)",
+      "artist": "Hoashi, Keigo & Okabe, Keiichi",
+      "has_synced": false,
+      "path": "select/16_全テヲ破壊スル黒キ巨人_怪獣_-_Dark_Colossus_(Kaiju)_Hoashi,_Keigo_&_Okabe,_Keiichi.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "全テヲ破壊スル黒キ巨人/怪獣 - Dark Colossus",
+      "artist": "Hoashi, Keigo & Okabe, Keiichi",
+      "has_synced": false,
+      "path": "select/17_全テヲ破壊スル黒キ巨人_怪獣_-_Dark_Colossus_Hoashi,_Keigo_&_Okabe,_Keiichi.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "怪獣 - Dark Colossus",
+      "artist": "Hoashi, Keigo & Okabe, Keiichi",
+      "has_synced": false,
+      "path": "select/18_怪獣_-_Dark_Colossus_Hoashi,_Keigo_&_Okabe,_Keiichi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪獣",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/pl_01_怪獣_PEOPLE_1.txt"
+    }
+  ]
+}
